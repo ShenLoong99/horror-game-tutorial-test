@@ -13,7 +13,7 @@
   <img src="Assets/Images/cover-image.png" alt="cover-image" />
   <p>
     A survival horror prototype built using Unity 6, focusing on atmosphere, interactive triggers, and classic jump-scare mechanics.
-  </p>
+  </p><br>
 
   <img src="https://img.shields.io/badge/Unity-600000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity 6" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Scripting" />
@@ -107,6 +107,7 @@
   <li><strong>Step 2:</strong> Walk through the hallway trigger. The door will slam, and the Gun will appear on the table.</li>
   <li><strong>Step 3:</strong> Pick up the Gun; the candle will automatically be placed back on the table.</li>
 </ul>
+<p>Watch the sample gameplay at my linkedIn post here: <a href="">Horror Game Prototype</a></p>
 <h3>Testing Notes</h3>
 <ul>
     <li>Check that <code>gunPickup.SetActive(true)</code> is called exactly when the door animation plays.</li>

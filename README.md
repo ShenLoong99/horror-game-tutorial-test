@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/badge/URP-Modern%20Graphics-orange?style=for-the-badge" alt="URP" />
   <img src="https://img.shields.io/badge/Status-Learning%20Project-blue?style=for-the-badge" alt="Status" /><br><br>
     
-![Last Commit](https://img.shields.io/github/last-commit/ShenLoong99/aws-terraform-image-labels-generator?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/ShenLoong99/aws-terraform-image-labels-generator?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/ShenLoong99/horror-game-tutorial-test?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/ShenLoong99/horror-game-tutorial-test?style=for-the-badge)
 
   <a href="#about-the-project"><strong>Explore the docs »</strong></a>
 </div>

@@ -36,6 +36,7 @@
     <li><a href="#usage">Usage & Testing</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#challenges">Challenges</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -107,7 +108,7 @@
   <li><strong>Step 2:</strong> Walk through the hallway trigger. The door will slam, and the Gun will appear on the table.</li>
   <li><strong>Step 3:</strong> Pick up the Gun; the candle will automatically be placed back on the table.</li>
 </ul>
-<p>Watch the sample gameplay at my linkedIn post here: <a href="">Horror Game Prototype</a></p>
+<p>Watch the sample gameplay at my linkedIn post here: <a href="https://www.linkedin.com/posts/activity-7420355544340815872-iouO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC64xbIBQ-4tMrEhn1BXRr8SmkzqiMPX0k8">Horror Game Prototype</a></p>
 <h3>Testing Notes</h3>
 <ul>
     <li>Check that <code>gunPickup.SetActive(true)</code> is called exactly when the door animation plays.</li>
